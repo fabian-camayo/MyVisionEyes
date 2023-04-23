@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+.buildozer/
+bin/
+kivy_venv/
